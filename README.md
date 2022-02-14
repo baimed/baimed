@@ -29,7 +29,8 @@
 [<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://dsc.gg/w0kebot/ ]
 <br />
 
-###             Spotify Playing 🎧
+###
+### Spotify Playing 🎧
 <p align="center">
   <a href="https://open.spotify.com/user/31y2hchpmcech6v5df57dyx3uzqa">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31y2hchpmcech6v5df57dyx3uzqa&cover_image=true&theme=default">
