@@ -31,7 +31,7 @@
 
 ###
 ### Spotify Song Playing 🎧
-<p align="centre">
+<p align="center">
   <a href="https://open.spotify.com/user/31y2hchpmcech6v5df57dyx3uzqa">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31y2hchpmcech6v5df57dyx3uzqa&cover_image=true&theme=compact">
 
