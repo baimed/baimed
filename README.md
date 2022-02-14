@@ -9,10 +9,10 @@
                                                           
 ```
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/66147422/150655515-88af3f9e-18a7-46f6-b8de-0d2f3c4caa35.gif" width="40px" />, I'm sokin</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/66147422/150655515-88af3f9e-18a7-46f6-b8de-0d2f3c4caa35.gif" width="40px" />, I'm w0ke</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=500&lines=Welcome+|sokin.eu" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=500&lines=Welcome+|w0ke" />
 </p>
 
 
@@ -26,7 +26,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://sokin.eu/ ]
+[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://dsc.gg/w0kebot/ ]
 <br />
 
 ### Spotify Playing 🎧
