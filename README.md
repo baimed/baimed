@@ -26,7 +26,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://dsc.gg/w0kebot/ ]
+[<img align="left" alt="My discord" width="22px" src="https://cdn.discordapp.com/attachments/917853328438886450/942928238936731659/2111370_1.png" /> https://dsc.gg/w0kebot/ ]
 <br />
 
 ###
