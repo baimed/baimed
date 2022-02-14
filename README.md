@@ -1,12 +1,12 @@
 ```
-      ,~~.                                           **CFX.RE FINDER HOSTED BY W0KE:**
-     (  9 )-_,                                           ➧   *Add Me here*: https://dsc.gg/w0kebot
+      ,~~.                                           CFX.RE FINDER HOSTED BY W0KE:
+     (  9 )-_,                                          ➧   Add Me here: https://dsc.gg/w0kebot
 (\___ )=='-'                                         
- \ .   ) )                                           **Prefix:** ``>c`` / ``‧₊˚⋆ Desync``
-  \ `-' /                                            **Help:** ``>help``
-   `~j-'   w0ke#1405                                 **Owner:** ||w0ke#1405|| *< Dm for help.*
+ \ .   ) )                                           Prefix: >c / ‧₊˚⋆ Desync
+  \ `-' /                                            Help: >help
+   `~j-'                                             Owner: w0ke#1405 < Dm for help.
      "=:                                             
-                                                          
+                                                     
 ```
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/66147422/150655515-88af3f9e-18a7-46f6-b8de-0d2f3c4caa35.gif" width="40px" />, I'm w0ke</h1>
