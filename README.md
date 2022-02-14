@@ -1,12 +1,12 @@
 ```
-       ,~~.                                           
-      (  9 )-_,                       CFX.RE FINDER HOSTED BY W0KE:
- (\___ )=='-'                             ➧   Add Me here: https://dsc.gg/w0kebot
-  \ .   ) )                     
-   \ `-' /                            Prefix: >c / ‧₊˚⋆ Desync
-    `~j-'                             Help: >help
-      "=:                             Owner: w0ke#1405 < Dm for help.
-                        
+                   ,~~.                                           
+                  (  9 )-_,                                               CFX.RE FINDER HOSTED BY W0KE:
+             (\___ )=='-'                                                     ➧   Add Me here: https://dsc.gg/w0kebot
+              \ .   ) )                                 
+               \ `-' /                                                    Prefix: >c / ‧₊˚⋆ Desync
+                `~j-'                                                     Help: >help
+                  "=:                                                     Owner: w0ke#1405 < Dm for help.
+                                    
 ```
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/66147422/150655515-88af3f9e-18a7-46f6-b8de-0d2f3c4caa35.gif" width="40px" />, I'm w0ke</h1>
@@ -29,7 +29,7 @@
 [<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://dsc.gg/w0kebot/ ]
 <br />
 
-### Spotify Playing 🎧
+###             Spotify Playing 🎧
 <p align="center">
   <a href="https://open.spotify.com/user/31y2hchpmcech6v5df57dyx3uzqa">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31y2hchpmcech6v5df57dyx3uzqa&cover_image=true&theme=compact">
