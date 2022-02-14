@@ -1,11 +1,11 @@
 ```
-                   ,~~.                                           
-                  (  9 )-_,                                               CFX.RE FINDER HOSTED BY W0KE:
-             (\___ )=='-'                                                     ➧   Add Me here: https://dsc.gg/w0kebot
-              \ .   ) )                                 
-               \ `-' /                                                    Prefix: >c / ‧₊˚⋆ Desync
-                `~j-'                                                     Help: >help
-                  "=:                                                     Owner: w0ke#1405 < Dm for help.
+                ,~~.                                           
+               (  9 )-_,                                  CFX.RE FINDER HOSTED BY W0KE:
+          (\___ )=='-'                                       ➧   Add Me here: https://dsc.gg/w0kebot
+           \ .   ) )                                 
+            \ `-' /                                       Prefix: >c / ‧₊˚⋆ Desync
+             `~j-'                                        Help: >help
+               "=:                                        Owner: w0ke#1405 < Dm for help.
                                     
 ```
 
