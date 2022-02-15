@@ -39,5 +39,15 @@
 ![Visitor Count](https://profile-counter.glitch.me/w00ke/count.svg)
 
 ## w0ke#1405
+[b]• [/b] SENS: 0.95
+[b]• [/b] DPI: 800
+[b]• [/b] MOUSE: G PRO WIRELESS
+[b]• [/b] RESOLUTION: 800x600 BLACK BARS
+[b]• [/b] CROSSHAIR: CSGO-tAxJv-3hFP3-mTOKX-HS5W9-eWfOQ
+[b]• [/b] KEYBOARD: Apex PRO TKL
+[b]• [/b] MONITOR: BenQ ZOWIE XL2546
+[b]• [/b] SYSTEM: WINDOWS 11 PRO
+[b]• [/b] FAV SONGS: Pashanim - SOMMERGEWITTER
+
 <br />
 
