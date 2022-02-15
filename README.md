@@ -21,7 +21,7 @@
 ```diff
 @@Info@@
 🚀 I'm still learning languages like PY and JS
-
+📏 If you like my work, leave +rep on Steam profile.
 
 ```
 
@@ -38,5 +38,6 @@
 ### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/w00ke/count.svg)
 
+## w0ke#1405
 <br />
 
