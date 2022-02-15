@@ -38,8 +38,6 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31y2hchpmcech6v5df57dyx3uzqa&cover_image=true&theme=compact">
 
 
-### My Stats !
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=w00ke&count_private=true&show_icons=true?theme=buefy)
 
 
 ## Visitor Count
