@@ -1,11 +1,11 @@
 ```
                                                        
-  CFX.RE FINDER HOSTED BY W0KE:
-    ➧   *Add Me here*: https://dsc.gg/w0kebot
+      CFX.RE FINDER HOSTED BY W0KE:
+        ➧   *Add Me here*: https://dsc.gg/w0kebot
 
-  Prefix: >c / ‧₊˚⋆ Desync
-  Help: >help
-  Owner: w0ke#1405 < Dm for help.
+      Prefix: >c / ‧₊˚⋆ Desync
+      Help: >help
+      Owner: w0ke#1405 < Dm for help.
                                     
 ```
 
@@ -38,16 +38,20 @@
 ### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/w00ke/count.svg)
 
-## w0ke#1405
-[b]• [/b] SENS: 0.95
-[b]• [/b] DPI: 800
-[b]• [/b] MOUSE: G PRO WIRELESS
-[b]• [/b] RESOLUTION: 800x600 BLACK BARS
-[b]• [/b] CROSSHAIR: CSGO-tAxJv-3hFP3-mTOKX-HS5W9-eWfOQ
-[b]• [/b] KEYBOARD: Apex PRO TKL
-[b]• [/b] MONITOR: BenQ ZOWIE XL2546
-[b]• [/b] SYSTEM: WINDOWS 11 PRO
-[b]• [/b] FAV SONGS: Pashanim - SOMMERGEWITTER
+## w0ke#1405 CS:GO SETTINGS
+```
+
+   • SENS: 0.95
+   • DPI: 800
+   • MOUSE: G PRO WIRELESS
+   • RESOLUTION: 800x600 BLACK BARS
+   • CROSSHAIR: CSGO-tAxJv-3hFP3-mTOKX-HS5W9-eWfOQ
+   • KEYBOARD: Apex PRO TKL
+   • MONITOR: BenQ ZOWIE XL2546
+   • SYSTEM: WINDOWS 11 PRO
+   • FAV SONGS: Pashanim - SOMMERGEWITTER
+
+```
 
 <br />
 
