@@ -1,11 +1,11 @@
 
                                                        
-         CFX.RE FINDER HOSTED BY W0KE:
-            ➧   Add Me here: https://dsc.gg/w0kebot
-                                         
-         Prefix: >c / ‧₊˚⋆ Desync
-         Help: >help
-         Owner: w0ke#1405 < Dm for help.
+**CFX.RE FINDER HOSTED BY W0KE:**
+    ➧   *Add Me here*: https://dsc.gg/w0kebot
+
+**Prefix:** ``>c`` / ``‧₊˚⋆ Desync``
+**Help:** ``>help``
+**Owner:** ||w0ke#1405|| *< Dm for help.*
                                     
 
 
