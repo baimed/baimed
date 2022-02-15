@@ -36,11 +36,13 @@
 
 
 ### Visitor Count
+
 ![Visitor Count](https://profile-counter.glitch.me/w00ke/count.svg)
+
+
 
 ## w0ke#1405 CS:GO SETTINGS
 ```
-
    • SENS: 0.95
    • DPI: 800
    • MOUSE: G PRO WIRELESS
@@ -50,7 +52,6 @@
    • MONITOR: BenQ ZOWIE XL2546
    • SYSTEM: WINDOWS 11 PRO
    • FAV SONGS: Pashanim - SOMMERGEWITTER
-
 ```
 
 <br />
