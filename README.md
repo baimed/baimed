@@ -41,7 +41,7 @@
 
 
 
-## w0ke#1405 CS:GO SETTINGS
+## MY CS:GO SETTINGS/GEARS
 ```
    • SENS: 0.95
    • DPI: 800
