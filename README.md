@@ -24,13 +24,15 @@
 
 ```
 
-### Connect with me:
+### My things:
 
-[<img align="left" alt="My discord" width="22px" src="https://cdn.discordapp.com/attachments/917853328438886450/942928238936731659/2111370_1.png" /> https://dsc.gg/w0kebot/ ]
+[<img align="left" alt="My discord Bot" width="22px" src="https://cdn.discordapp.com/attachments/917853328438886450/942928238936731659/2111370_1.png" /> https://dsc.gg/w0kebot/ ]
+<br />
+[<img align="left" alt="My discord Server" width="22px" src="https://cdn.discordapp.com/attachments/917853328438886450/942928238936731659/2111370_1.png" /> https://dsc.gg/w0ke/ ]
 <br />
 
-###
-### Spotify Song Playing 🎧
+
+### Spotify Playing 🎧
 <p align="center">
   <a href="https://open.spotify.com/user/31y2hchpmcech6v5df57dyx3uzqa">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31y2hchpmcech6v5df57dyx3uzqa&cover_image=true&theme=compact">
