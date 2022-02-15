@@ -27,9 +27,9 @@
 
 ### My things:
 
-[<img align="left" alt="My Discord Bot" width="22px" src="https://cdn.discordapp.com/attachments/917853328438886450/942928238936731659/2111370_1.png" /> https://dsc.gg/w0kebot/ ]
+[<img align="left" alt="My Discord Bot" width="22px" src="https://cdn.discordapp.com/attachments/917853328438886450/942928238936731659/2111370_1.png" /> https://dsc.gg/w0kebot ]
 <br />
-[<img align="left" alt="My Steam Profile" width="22px" src="https://cdn.discordapp.com/attachments/917853328438886450/942980718533959770/steam-2288551-1933796_1.png" /> https://steamcommunity.com/id/w00ke// ]
+[<img align="left" alt="My Steam Profile" width="22px" src="https://cdn.discordapp.com/attachments/917853328438886450/942984444749418576/Nowy_projekt_3.png" /> https://steamcommunity.com/id/w00ke ]
 <br />
 
 
