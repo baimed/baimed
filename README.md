@@ -20,15 +20,18 @@
 
 ```diff
 @@Info@@
-🚀 I'm still learning languages like
+🚀 I'm still learning languages like PY and JS
+
 
 ```
 
 ### My things:
 
-[<img align="left" alt="My discord Bot" width="22px" src="https://cdn.discordapp.com/attachments/917853328438886450/942928238936731659/2111370_1.png" /> https://dsc.gg/w0kebot/ ]
+[<img align="left" alt="My Discord Bot" width="22px" src="https://cdn.discordapp.com/attachments/917853328438886450/942928238936731659/2111370_1.png" /> https://dsc.gg/w0kebot/ ]
 <br />
-[<img align="left" alt="My discord Server" width="22px" src="https://cdn.discordapp.com/attachments/917853328438886450/942928238936731659/2111370_1.png" /> https://dsc.gg/w0ke/ ]
+[<img align="left" alt="My Discord Server" width="22px" src="https://cdn.discordapp.com/attachments/917853328438886450/942928238936731659/2111370_1.png" /> https://dsc.gg/w0ke/ ]
+<br />
+[<img align="left" alt="My Steam Profile" width="22px" src="https://cdn.discordapp.com/attachments/917853328438886450/942980718533959770/steam-2288551-1933796_1.png" /> https://steamcommunity.com/id/w00ke// ]
 <br />
 
 
