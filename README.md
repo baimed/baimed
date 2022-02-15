@@ -1,7 +1,7 @@
 ```
                                                        
       CFX.RE FINDER HOSTED BY W0KE:
-        ➧   *Add Me here*: https://dsc.gg/w0kebot
+        ➧   *Add my Bot here*: https://dsc.gg/w0kebot
 
       Prefix: >c / ‧₊˚⋆ Desync
       Help: >help
