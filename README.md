@@ -20,7 +20,7 @@
 
 ```diff
 @@Info@@
-🚀 I'm still learning languages like LUA, PY, HTML/CSS, C++ and JS
+🚀 I'm still learning languages like LUA, PY, C++ and JS
 📏 If you like my work, leave +rep on Steam profile.
 
 ```
