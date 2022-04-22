@@ -1,11 +1,11 @@
 ```
                                                        
-      CFX.RE FINDER HOSTED BY W0KE:
+      CFX.RE FINDER HOSTED BY `s#0001:
         ➧   *Add my Bot here*: https://dsc.gg/w0kebot
 
       Prefix: >c / ‧₊˚⋆ Desync
       Help: >help
-      Owner: w0ke#1405 < Dm for help.
+      Owner: `s#0001 < Dm for help.
                                     
 ```
 
@@ -29,7 +29,7 @@
 
 [<img align="left" alt="My Discord Bot" width="22px" src="https://cdn.discordapp.com/attachments/917853328438886450/942928238936731659/2111370_1.png" /> https://dsc.gg/w0ke ]
 <br />
-[<img align="left" alt="My Steam Profile" width="22px" src="https://cdn.discordapp.com/attachments/917853328438886450/942984444749418576/Nowy_projekt_3.png" /> https://steamcommunity.com/id/w00ke ]
+[<img align="left" alt="My Steam Profile" width="22px" src="https://cdn.discordapp.com/attachments/917853328438886450/942984444749418576/Nowy_projekt_3.png" /> https://steamcommunity.com/id/cfx-re]
 <br />
 
 
