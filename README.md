@@ -5,7 +5,7 @@ benzoware.eu soon | Aimbot, ESP, Misc
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=500&lines=Welcome+| issagloxk" />
 </p>
 
-<img align="left" height="220" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
 @@Info@@
