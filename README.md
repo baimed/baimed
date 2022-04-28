@@ -9,5 +9,5 @@
 
 ### Connect with me:
 
-[<img align="left" alt="My discord" width="22px" src="https://raw.githubusercontent.com/issagloxk/benzochair.eu/main/favicon.ico" />https://benzochair.eu/ ]
+[<img align="left" alt="My discord" width="20x" src="https://raw.githubusercontent.com/issagloxk/benzochair.eu/main/favicon.ico" />https://benzochair.eu/ ]
 <br />
