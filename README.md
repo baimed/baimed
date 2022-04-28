@@ -1,10 +1,3 @@
-```
-                                                       
-      CFX.RE FINDER HOSTED BY `s#0001:
-        ➧   *Add my Bot here*: https://dsc.gg/w0ke
-
-      Prefix: >c / ‧₊˚⋆ Desync
-      Help: >help
-      Owner: `s#0001 < Dm for help.
-                                    
-```
+ 
+ ​![](https://github-readme-stats.vercel.app/api?username=nekunda&show_icons=true&count_private=true) 
+ ​![](https://github-readme-stats.vercel.app/api/top-langs/?username=nekunda&hide=html&layout=compact)
