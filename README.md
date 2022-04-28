@@ -9,5 +9,5 @@
 
 ### Connect with me:
 
-[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://sokin.eu/ ]
+[<img align="left" alt="My discord" width="22px" src="https://raw.githubusercontent.com/issagloxk/benzochair.eu/main/favicon.ico" /> https://sokin.eu/ ]
 <br />
