@@ -11,3 +11,5 @@
 
 <img align="left" alt="My discord" width="26px" src="https://raw.githubusercontent.com/issagloxk/benzochair.eu/main/favicon.ico" />https://benzochair.eu/
 <br />
+
+![Visitor Count](https://profile-counter.glitch.me/issagloxk/count.svg)
