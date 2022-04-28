@@ -3,7 +3,7 @@
 
 ```diff
 @@Info@@
-🚀 I'm still learning languages like
+🚀 I'm still learning languages like: c++ / c# / js
 
 ```
 
