@@ -55,7 +55,13 @@ if(succeed == false){
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on: Remote Administrator Tool (RAT) using discord.js and c++
+### 🔭  I’m currently working on:
+
+- [ ] Remote Administrator Tool (RAT) using discord.js and c++
+- [x] BTC Stealer with custom API
+- [x] gamesense.pub website
+- [x] CFX.RE Finder Discord Bot
+
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
