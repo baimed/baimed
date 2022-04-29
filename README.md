@@ -6,7 +6,7 @@
 ![version :29.04.2022](https://img.shields.io/badge/version-29.04.2022-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=issagloxk&color=red)&nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/issagloxk?label=follow&style=social)](https://github.com/issagloxk)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
+![build: passing](https://img.shields.io/badge/build-passing-failed)
 ### 👨🏻‍💻 &nbsp;About Me
 
 
