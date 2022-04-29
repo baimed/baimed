@@ -9,7 +9,7 @@ benzoware.eu *soon* | Aimbot, ESP, Misc
 
 ```diff
 @@Info@@
-🚀 I'm still learning languages like: c++ / c# / js
+🚀 I'm still learning languages like: c++ / c# / js / py
 
 ```
 
