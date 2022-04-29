@@ -8,6 +8,9 @@
 [![GitHub issagloxk](https://img.shields.io/github/followers/issagloxk?label=follow&style=social)](https://github.com/issagloxk)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
+## Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/issagloxk/count.svg)
 
 ```js
 document.write("benzochair.eu");
