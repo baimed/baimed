@@ -15,7 +15,7 @@ Developer dev = new Developer(issagloxk);
 const issagloxk = {
     status: Student,
     technologies: {
-        frontEnd: [HTML, CSS, JavaScript],
+       frontEnd: [HTML, CSS, JavaScript],
         backEnd: [Node.js, Discord.js, PHP],
     },
     editors: [VSC, PyCharm],
