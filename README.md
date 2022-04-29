@@ -13,6 +13,12 @@
 ✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
 💬 &nbsp;Feel free to reach out to me on discord: `s#0001
 
+- 🎮 Passionate about games (playing and trying code one). \
+- 🎼 I play some instruments like Guitar and Drums in my free time. \
+- 🎓 BEng in Computer Engineering on progress. \
+- 🧑‍💻 Software Developer since 2017, Back-End most time. \
+- 💼 Currently working at <a href="https://www.itau.com.br">Itaú Unibanco. \
+
 
 ### 🛠 &nbsp;Tech Stack
 
