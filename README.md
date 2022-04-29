@@ -20,9 +20,9 @@ const issagloxk = {
     status: Student,
     technologies: {
        frontEnd: [HTML, CSS, JavaScript],
-        backEnd: [Node.js, Discord.js, PHP],
+        backEnd: [Node.js, Discord.js, PHP, MongoDB],
     },
-    editors: [VSC, PyCharm],
+    editors: [VS Code,VS 2022, PyCharm],
     learning: [Python],
     discord: `s#0001
 };
