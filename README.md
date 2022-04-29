@@ -19,6 +19,6 @@ benzoware.eu *soon* | Aimbot, ESP, Misc
 <br /><br /><br />
 <p align="center"><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=issagloxk&layout=compact></p>
 <br />
-<p align="center"><img src=https://profile-counter.glitch.me/issagloxk/count.svg></p>
+<p align="right"><img src=https://profile-counter.glitch.me/issagloxk/count.svg></p>
 <br />
 
