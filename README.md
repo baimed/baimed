@@ -20,7 +20,7 @@ const issagloxk = {
     },
     editors: [VSC, PyCharm],
     learning: [Python],
-    contact: `s#0001
+    discord: `s#0001
 };
 
 if(succeed == false){
