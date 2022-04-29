@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 - [x] gamesense.pub website
 - [x] CFX.RE Finder Discord Bot
 - [ ] Remote Administrator Tool (RAT) using discord.js and c++
-- [ ] ****soon*****
+- [ ] *****soon*****
 
 <!--
 - 🌱 I’m currently working on: I’m currently learning ...
