@@ -15,7 +15,7 @@ benzoware.eu *soon* | Aimbot, ESP, Misc
 
 ### Connect with me:
 
-<img align="left" alt="My discord" width="26px" src="https://raw.githubusercontent.com/issagloxk/benzochair.eu/main/favicon.ico" />https://benzochair.eu/
+<img align="left" alt="My discord" width="26px" src="https://mpng.subpng.com/20190618/qhj/kisspng-artist-pixel-art-lemon-demon-5d0905aaccc1b9.8614216815608723628387.jpg" />https://benzochair.eu/
 <br />
 <br />
 ![Visitor Count](https://profile-counter.glitch.me/issagloxk/count.svg)
