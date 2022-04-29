@@ -9,7 +9,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-```document.write("Hello World");
+```js
+document.write("Hello World");
 Developer dev = new Developer(issagloxk);
 const issagloxk = {
     status: Student,
