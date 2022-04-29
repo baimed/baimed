@@ -22,7 +22,7 @@ const issagloxk = {
        frontEnd: [HTML, CSS, JavaScript],
         backEnd: [Node.js, Discord.js, PHP, MongoDB],
     },
-    editors: [VS Code,VS 2022, PyCharm],
+    editors: [VS Code, PyCharm],
     learning: [Python],
     discord: `s#0001
 };
