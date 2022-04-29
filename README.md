@@ -55,7 +55,7 @@ if(succeed == false){
 
 Here are some ideas to get you started:
 -->
-### 🔭  I’m currently working on:
+### 📋 ToDo List April-May 2k22:
 
 - [ ] Remote Administrator Tool (RAT) using discord.js and c++
 - [x] BTC Stealer with custom API
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 - [x] CFX.RE Finder Discord Bot
 
 <!--
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently working on: I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
