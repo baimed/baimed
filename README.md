@@ -17,6 +17,7 @@ benzoware.eu *soon* | Aimbot, ESP, Misc
 
 <img align="left" alt="My discord" width="26px" src="https://raw.githubusercontent.com/issagloxk/benzochair.eu/main/favicon.ico" />https://benzochair.eu/
 <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issagloxk&layout=compact)](https://github.com/issagloxk/github-readme-stats)
 <br /><br /><br />
 <p align="center"><img src=https://profile-counter.glitch.me/issagloxk/count.svg></p>
 <br />
