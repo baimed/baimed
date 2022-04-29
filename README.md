@@ -7,7 +7,6 @@
 ![profile count](https://komarev.com/ghpvc/?username=issagloxk&color=red)&nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/issagloxk?label=follow&style=social)](https://github.com/issagloxk)&nbsp;
 
-### 👨🏻‍💻 &nbsp;About Me
 
 ```js
 document.write("Hello World");
