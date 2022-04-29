@@ -6,13 +6,6 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Passionate about games (playing and trying code one).\
-💻 &nbsp; I play some instruments like Guitar and Drums in my free time.\
-🎓 &nbsp; BEng in Computer Engineering on progress.\
-💻 &nbsp; Software Developer since 2017, Back-End most time.\
-💬 &nbsp; Feel free to reach out to me on discord: `s#0001 <br />
-✍️ &nbsp; Currently working at <a href="https://www.itau.com.br">Itaú Unibanco.\
-
 
 
 ### 🛠 &nbsp;Tech Stack
