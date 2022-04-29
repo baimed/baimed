@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=FFFFFF&width=500&lines=Welcome+|+benzochair.eu" />
 </p>
 
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there ! Thank you for visiting my profile.
 ![version :29.04.2022](https://img.shields.io/badge/version-29.04.2022-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=issagloxk&color=red)&nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/issagloxk?label=follow&style=social)](https://github.com/issagloxk)&nbsp;
@@ -10,13 +10,13 @@
 <db />
 
 ```js
-document.write("Hello World");
+document.write("benzoware");
 Developer dev = new Developer(issagloxk);
 const issagloxk = {
     status: Student,
     technologies: {
         frontEnd: [HTML, CSS, JavaScript],
-        backEnd: [Node.js, Discord.js, MongoDB],
+        backEnd: [Node.js, Discord.js, PHP],
     },
     editors: [VS Code, PyCharm],
     learning: [Python],
