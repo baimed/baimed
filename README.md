@@ -11,6 +11,7 @@
 
 ```js
 document.write("benzochair.eu");
+
 Developer dev = new Developer(issagloxk);
 const issagloxk = {
     status: Student,
