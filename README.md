@@ -4,10 +4,10 @@
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there ! Thank you for visiting my profile.
 ![version :29.04.2022](https://img.shields.io/badge/version-29.04.2022-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=issagloxk&color=red)&nbsp;
 [![GitHub issagloxk](https://img.shields.io/github/followers/issagloxk?label=follow&style=social)](https://github.com/issagloxk)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-<db />
-<db />
+
 
 ```js
 document.write("benzochair.eu");
@@ -29,10 +29,6 @@ if(succeed == false){
     party();
 };
 ```
-<db />
-
-### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/issagloxk/count.svg)
 
 
 <!--
@@ -45,7 +41,9 @@ if(succeed == false){
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 -->
 
-<!--![profile count](https://komarev.com/ghpvc/?username=issagloxk&color=red)&nbsp;-->
+<!--
+
+-->
 
 <!--
 **issagloxk/issagloxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
