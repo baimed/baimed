@@ -11,7 +11,7 @@
 🎓&nbsp;I graduated form Visvesvaraya National Institute of Technology, Nagpur (B.Tech, Computer Science and Engineering, Batch of 2021).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
 ✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
-💬 &nbsp;Feel free to reach out to me on discord: `s#0001\
+💬 &nbsp;Feel free to reach out to me on discord: `s#0001
 
 
 ### 🛠 &nbsp;Tech Stack
