@@ -57,10 +57,11 @@ Here are some ideas to get you started:
 -->
 ### 📋 ToDo List April-May 2k22:
 
-- [ ] Remote Administrator Tool (RAT) using discord.js and c++
 - [x] BTC Stealer with custom API
 - [x] gamesense.pub website
 - [x] CFX.RE Finder Discord Bot
+- [ ] Remote Administrator Tool (RAT) using discord.js and c++
+- [ ] *soon*
 
 <!--
 - 🌱 I’m currently working on: I’m currently learning ...
