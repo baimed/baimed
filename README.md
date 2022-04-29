@@ -9,6 +9,24 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+```document.write("Hello World");
+Developer dev = new Developer(issagloxk);
+const issagloxk = {
+    status: Student,
+    technologies: {
+        language: [HTML, CSS, C++, JavaScript],
+    },
+    editors: [VS Code, PyCharm],
+    learning: [Python],
+    contact: `s#0001
+};
+
+if(succeed == false){
+    tryagain();
+}else{
+    party();
+};
+```
 
 
 ### 🛠 &nbsp;Tech Stack
