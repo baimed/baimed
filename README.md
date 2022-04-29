@@ -18,7 +18,7 @@ const issagloxk = {
         frontEnd: [HTML, CSS, JavaScript],
         backEnd: [Node.js, Discord.js, PHP],
     },
-    editors: [VS Code, PyCharm],
+    editors: [VSC, PyCharm],
     learning: [Python],
     contact: `s#0001
 };
