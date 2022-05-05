@@ -9,14 +9,6 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 
-### 📋 ToDo List April-May:
-
-- [x] BTC Stealer with custom API
-- [x] gamesense.pub website
-- [x] CFX.RE Finder Discord Bot
-- [ ] Remote Administrator Tool (RAT) using discord.js and c++
-
-
 ```js
 document.write("benzochair.eu");
 
