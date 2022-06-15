@@ -21,7 +21,7 @@ const issagloxk = {
     },
     editors: [VS Code, PyCharm],
     learning: [Python],
-    discord: `s#0001
+    discord: ひ *.#0001
 };
 
 if(succeed == false){
