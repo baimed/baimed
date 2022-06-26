@@ -10,9 +10,9 @@
 
 
 ```js
-document.write("benzochair.eu");
+document.write("discord.gg/zwyrek");
 
-Developer dev = new Developer(issagloxk);
+Developer dev = new Developer(g0thic);
 const issagloxk = {
     status: Student,
     technologies: {
@@ -21,7 +21,7 @@ const issagloxk = {
     },
     editors: [VS Code, PyCharm],
     learning: [Python],
-    discord: ひ *.#0001
+    discord: g0thic#5555
 };
 
 if(succeed == false){
