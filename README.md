@@ -13,7 +13,7 @@
 document.write("discord.gg/zwyrek");
 
 Developer dev = new Developer(g0thic);
-const issagloxk = {
+const g0thic = {
     status: Student,
     technologies: {
        frontEnd: [HTML, CSS, JavaScript],
