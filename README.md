@@ -3,7 +3,7 @@
 </p>
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there ! Thank you for visiting my profile.
-![version :29.04.2022](https://img.shields.io/badge/version-29.04.2022-informational) &nbsp;
+![version :29.04.2022](https://img.shields.io/badge/version-25.06.2022-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=issagloxk&color=red)&nbsp;
 [![GitHub issagloxk](https://img.shields.io/github/followers/baimed?label=follow&style=social)](https://github.com/baimed)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
